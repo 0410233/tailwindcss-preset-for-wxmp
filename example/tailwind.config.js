@@ -1,5 +1,5 @@
 module.exports = {
   presets: [
-    require('./preset-for-wxmp')
+    require('../preset-for-wxmp')
   ],
 }
